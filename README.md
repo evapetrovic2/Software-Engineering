@@ -17,17 +17,7 @@ The Booktracker Application is a Java program that helps manage and analyze read
 
 1. Clone the repository or download the source files
 2. Ensure you have the Excel file in the correct location (`src/main/resources/reading_habits_dataset.xlsx`)
-3. Build the project using Maven:
-   ```
-   mvn clean install
-   ```
 
-## Running the Application
-
-Execute the application using the following command:
-```
-mvn exec:java -Dexec.mainClass="org.example.Main"
-```
 
 Alternatively, you can run the `Main` class directly from your IDE.
 
